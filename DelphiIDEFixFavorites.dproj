@@ -159,6 +159,8 @@
             <Form>DIFFMainForm</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Source\DIFF.ProjectEntries.pas"/>
+        <DCCReference Include="Source\DIFF.ProjectRegistry.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
